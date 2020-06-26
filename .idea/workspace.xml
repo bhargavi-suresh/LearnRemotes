@@ -20,6 +20,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
   </component>
   <component name="SvnConfiguration">
@@ -36,6 +37,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="410" y="144" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593211804672">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="410" y="144" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1593211804672" />
     <state x="342" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1593210732323">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
